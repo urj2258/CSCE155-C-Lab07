@@ -44,7 +44,7 @@ double getMean(const int *arr, int size);
 int getMin(const int *arr, int size);
 
 /**
- * TODO: add your own documentation
+ * TODO: 
  */
 int getIndexOfMin(const int *arr, int size);
 
